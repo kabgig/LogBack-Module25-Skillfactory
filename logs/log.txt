@@ -1,0 +1,1 @@
+18:28:47.534 INFO  [main] org.example.Test - Test log from Test
